@@ -137,7 +137,7 @@ if [ ! -n "${BULLETTRAIN_GO_FG+1}" ]; then
   BULLETTRAIN_GO_FG=white
 fi
 if [ ! -n "${BULLETTRAIN_GO_PREFIX+1}" ]; then
-  BULLETTRAIN_GO_PREFIX="go"
+  BULLETTRAIN_GO_PREFIX="ʕ◔ϖ◔ʔ"
 fi
 
 # Rust
